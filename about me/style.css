@@ -1,0 +1,113 @@
+*{
+    padding:0px;
+    margin:0px;
+    text-align:center;
+    font-family: 'Sacramento', cursive;
+    
+}
+.cont1{
+    background-color:#e3fdfd;
+    padding-top:100px;
+    position:relative;
+    
+  
+}
+.middle-container{
+    margin:50px 0 0 0;
+    padding:20px;
+}
+hr{
+    border:dotted #EAF6F6 6px;
+    border-bottom: none;
+    width:4%;
+    margin:100px auto;
+}
+
+
+h1{
+    font-size:90px;
+    color:#66BFBF
+
+}
+h2{
+    font-size:60px;
+    color:#66BFBF;
+
+}
+h3{
+    font-size:40px;
+    color:#11999E
+ 
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+.bottom_cloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.top_cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+
+.profile_pic{
+    width: 200px;
+    height:240px;
+    border-radius: 50%;
+}
+
+.image_skills{
+    width:180px;
+    height:180px;
+    border-radius: 50%;
+}
+
+.cook{
+    width:180px;
+    height:180px;
+    border-radius: 50%;
+}
+.footer-link1{
+    width:30px;
+    height:35px;
+}
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+    line-height: 2;
+}
+.image_skills{
+    width:25%;
+    float:left;
+}
+.cook{
+    width:25%;
+    float:right;
+}
+
+a{
+    color:#11999E
+}
+
+
+.contact-me{
+    background-color: #66BFBF;
+    height:150px;
+   
+    padding:20px;
+}
+
+.f{
+   color: #ccf3f3;
+}
+
+
+
+
